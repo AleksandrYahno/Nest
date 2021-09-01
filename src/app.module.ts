@@ -29,7 +29,6 @@ import { UserRoles } from './roles/user-roles.model';
     ]
 })
 
-
 export class AppModule {
 
 }
